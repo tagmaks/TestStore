@@ -11,6 +11,7 @@
     "angular": "~1.4.5",
     "angular-sanitize": "~1.4.5",
     "angular-ui-router": "~0.2.15",
-    "angular-ui-bootstrap": "*"
+    "angular-ui-bootstrap": "*",
+    "toastr": "~2.1.2"
   }
 }
